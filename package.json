@@ -1,0 +1,33 @@
+{
+  "name": "jspie",
+  "version": "0.1.0",
+  "description": "The code provides a command line interface to check website status, open port on a website, and connect to an FTP server for file transfer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KailUser/JsPie.git"
+  },
+  "keywords": [
+    "jspie",
+    "js",
+    "status_site",
+    "command_line",
+    "ftp",
+    "port_scan"
+  ],
+  "author": "KailUser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KailUser/JsPie/issues"
+  },
+  "homepage": "https://github.com/KailUser/JsPie#readme",
+  "dependencies": {
+    "basic-ftp": "^5.0.2",
+    "http": "^0.0.1-security",
+    "net": "^1.0.2",
+    "readline": "^1.3.0"
+  }
+}
