@@ -1,4 +1,4 @@
-# JsPie - Command Line Website Status and FTP Checker
+# JsPie - Command Line Website Status and Port Checker
 
 JsPie is a command line tool for checking the status of a website and open port on the website's server. It also allows you to connect to an FTP server for file transfer.
 
